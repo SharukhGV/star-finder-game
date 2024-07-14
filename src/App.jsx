@@ -226,7 +226,7 @@ function generateRandomObject(){
 <br></br>
 {showhint2 ? allobjects[objectnum].hint2 : null}
 <br></br>
-<label htmlFor="name">Name of Player (4 to 8 characters):</label>
+<label htmlFor="name">Name of Player:</label>
       <input onChange={onFieldChange} value={name} type="text" id="name" name="name" />
       <button onClick={generatePlayerName}>Add Player</button>
 <br></br>
