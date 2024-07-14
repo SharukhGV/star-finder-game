@@ -11,7 +11,7 @@ function App() {
 
 let allobjects = [
   {
-      "name": "Cygnus (The Swan)",
+      "name": "Cygnus",
       "hint1": "Look for a cross-shaped constellation flying along the Milky Way.",
       "hint2": "Its brightest star, Deneb, forms one corner of the Summer Triangle."
   },
