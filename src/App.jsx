@@ -234,7 +234,7 @@ function App() {
 
     },
     {
-      "name": "Altinak",
+      "name": "Alnitak",
       "hint1": "Look for the easternmost star in Orion's Belt, visible early in the morning.",
       "hint2": "It’s part of the distinctive line of three stars.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ngc2024_2mass.jpg" // Altinak is in Orion
