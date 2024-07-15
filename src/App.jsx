@@ -330,7 +330,7 @@ function App() {
     if (allobjects[objectnum].name === "Mirach") return <img style={{ width: "300px", border: "solid", borderColor: "red" }} src={mirach} alt="celestial image" />;
     if (allobjects[objectnum].name === "Pegasus") return <img style={{ width: "300px", border: "solid", borderColor: "red" }} src={pegasus} alt="celestial image" />;
     if (allobjects[objectnum].name === "Perseus") return <img style={{ width: "300px", border: "solid", borderColor: "red" }} src={perseus} alt="celestial image" />;
-    if (allobjects[objectnum].name === "Pleiades") return <img style={{ width: "300px", border: "solid", borderColor: "red" }} src={pleiades} alt="celestial image" />;
+    if (allobjects[objectnum].name === "Pleiades") return <img style={{ width: "300px", border: "solid", borderColor: "red" }} src={allobjects[objectnum].image} alt="celestial image" />;
     if (allobjects[objectnum].name === "Polaris") return <img style={{ width: "300px", border: "solid", borderColor: "red" }} src={polaris} alt="celestial image" />;
     if (allobjects[objectnum].name === "Sagitta") return <img style={{ width: "300px", border: "solid", borderColor: "red" }} src={sagitta} alt="celestial image" />;
     if (allobjects[objectnum].name === "Sagittarius") return <img style={{ width: "300px", border: "solid", borderColor: "red" }} src={sagittarius} alt="celestial image" />;
